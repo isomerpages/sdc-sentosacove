@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/Cove_landscape_image.jpg
+      background: /images/Cove_landscape_image___Copy.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
