@@ -1,7 +1,7 @@
 logo: /images/Screenshot_2024_12_03_102336.jpg
 links:
   - title: About Us
-    url: /About-Us
+    url: /about-us
     sublinks:
       - title: Data Protection Policy
         url: /permalink
