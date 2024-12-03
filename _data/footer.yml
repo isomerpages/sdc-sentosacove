@@ -1,5 +1,5 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach: false
 faq: /faq/
 social_media:
   facebook: https://www.facebook.com/YourFBPage
@@ -7,4 +7,3 @@ social_media:
   youtube: https://www.youtube.com/YourYoutube
   instagram: https://www.instagram.com/your.insta/
   linkedin: https://www.linkedin.com/company/YourAgency
-feedback: ""
