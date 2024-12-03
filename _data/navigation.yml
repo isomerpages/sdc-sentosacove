@@ -2,7 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Cove Living
     collection: example-folder
+  - title: Data Protection Policy
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
