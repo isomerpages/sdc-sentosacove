@@ -1,12 +1,12 @@
 logo: /images/Screenshot_2024_12_03_102336.jpg
 links:
-  - title: Cove Living
-    collection: example-folder
-  - title: Data Protection Policy
+  - title: About Us
     url: /permalink
     sublinks:
-      - title: New submenu
+      - title: Data Protection Policy
         url: /permalink
+  - title: Cove Living
+    collection: example-folder
   - title: Location
     url: /permalink
   - title: Cove Information
