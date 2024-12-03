@@ -2,31 +2,36 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Sentosa Cove Resort Management
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 1 Cove Avenue
+      - "#02-05"
+      - Singapore 098537
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
+    maps_link: ""
+    title: Main Office
+  - address:
+      - Security Command Centre
+      - "1 Cove Avenue, #02-04"
+      - 1800-RANGERS (726 4377) or +65 6277 5315 / 5316
+    operating_hours: []
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    title: Sentosa Rangers
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6275 9088
+      - email: cove_feedback@sentosa.com.sg
+      - other: For any emergency after office hours, kindly contact the Security Command
+          Centre. <i>including HTML</i>
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
+feedback: ""
 ---
