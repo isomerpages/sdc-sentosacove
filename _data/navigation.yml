@@ -4,9 +4,7 @@ links:
     url: /about-us/
     sublinks:
       - title: Data Protection Policy
-        url: /permalink
-  - title: Cove Living
-    collection: example-folder
+        url: /personal-data-protection-policy/
   - title: Location
     url: /permalink
   - title: Cove Information
