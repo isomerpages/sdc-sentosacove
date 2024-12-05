@@ -26,12 +26,7 @@ contacts:
       - phone: +65 6275 9088
       - email: cove_feedback@sentosa.com.sg
       - other: For any emergency after office hours, kindly contact the Security Command
-          Centre. <i>including HTML</i>
+          Centre.
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 feedback: ""
 ---
