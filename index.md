@@ -10,13 +10,6 @@ sections:
       background: /images/Cove_landscape_image___Copy.jpg
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
       variant: image
   - infopic:
       title: Sentosa Cove
@@ -51,24 +44,4 @@ sections:
       url: http://www.quaysideisle.com/
       image: /images/QI_image.jpg
       alt: Image alt text
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: New Announcement
-          date: 03 December 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
