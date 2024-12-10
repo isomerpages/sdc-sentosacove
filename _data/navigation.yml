@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us/
     sublinks:
+      - title: About Us
+        url: /about-us/
       - title: Data Protection Policy
         url: /personal-data-protection-policy/
   - title: Location
