@@ -12,14 +12,14 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-    maps_link: ""
+    maps_link: https://maps.app.goo.gl/3kAMmZzKoXFUdcbq5
     title: Main Office
   - address:
       - Security Command Centre
       - "1 Cove Avenue, #02-04"
       - 1800-RANGERS (726 4377) or +65 6277 5315 / 5316
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://maps.app.goo.gl/3kAMmZzKoXFUdcbq5
     title: Sentosa Rangers
 contacts:
   - content:
