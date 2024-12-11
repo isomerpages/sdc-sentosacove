@@ -1,6 +1,6 @@
 title: Sentosa Cove
 url: https://www.sentosacove.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/Screenshot_2024_12_03_102336.jpg
 colors:
   primary-color: "#ffffff"
   secondary-color: "#9b9b9b"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d1pxgr058857ok.amplifyapp.com
 prod: https://master.d4xk56f0rxnw9.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Screenshot_2024_12_03_102336.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
