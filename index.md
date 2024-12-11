@@ -4,7 +4,7 @@ title: Sentosa Cove
 description: Sentosa Cove
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/Cove_landscape_image___Copy.jpg
