@@ -2,7 +2,7 @@
 layout: homepage
 title: Sentosa Cove
 description: Sentosa Cove
-image: /images/isomer-logo.svg
+image: /images/Screenshot_2024_12_03_102336.jpg
 permalink: /
 notification: ""
 sections:
