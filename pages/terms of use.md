@@ -4,3 +4,237 @@ permalink: /terms-of-use/
 variant: tiptap
 description: Terms of Usage
 ---
+<p><strong>3. SPECIFIC ISSUES FOR THE DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES</strong>
+</p>
+<p>3.1 We respect the confidentiality of the personal data you have provided
+to us.</p>
+<p>3.2 In that regard, we will not disclose your personal data to third parties
+without first obtaining your consent permitting us to do so. However, please
+note that we may disclose your personal data to third parties without first
+obtaining your consent in certain situations, including, without limitation,
+the following:</p>
+<p>(a) cases in which the disclosure is required or authorized based on the
+applicable laws and/or regulations;</p>
+<p>(b) cases in which the purpose of such disclosure is clearly in your interests,
+and if consent cannot be obtained in a timely way;</p>
+<p>(c) cases in which the disclosure is necessary to respond to an emergency
+that threatens the life, health or safety of yourself or another individual;</p>
+<p>(d) cases in which the disclosure is necessary for any investigation or
+proceedings;</p>
+<p>(e) cases in which the personal data is disclosed to any officer of a
+prescribed law enforcement agency, upon production of written authorisation
+signed by the head or director of that law enforcement agency or a person
+of a similar rank, certifying that the personal data is necessary for the
+purposes of the functions or duties of the officer; and/or</p>
+<p>(f) where such disclosure without your consent is lawful.</p>
+<p>3.3 Where we disclose your personal data to third parties, we will employ
+our best efforts to ensure all appropriate contractual arrangements and
+security mechanisms are in place to protect your personal data.</p>
+<p><strong>4. REQUEST FOR ACCESS AND/OR CORRECTION OF PERSONAL DATA</strong>
+</p>
+<p>4.1 You may request to access and/or correct the personal data currently
+in our possession or control by submitting a written request to us at
+<a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dataprotectionofficer@sentosa.com.sg </u>
+</a>. We will need enough information from you in order to ascertain your
+identity as well as the nature of your request, so as to be able to deal
+with your request.</p>
+<p>4.2 For a request to access personal data, once we have sufficient information
+from you to deal with the request, we will seek to provide you with the
+relevant personal data within 30 days. Where we are unable to respond to
+you within the said 30 days, we will notify you of the soonest possible
+time within which we can provide you with the information requested.</p>
+<p>4.3 For a request to correct personal data, once we have sufficient information
+from you to deal with the request, we will:</p>
+<p>(a) correct your personal data within 30 days. Where we are unable to
+do so within the said 30 days, we will notify you of the soonest practicable
+time within which we can make the correction; and</p>
+<p>(b) send the corrected personal data to every other organisation to which
+the personal data was disclosed by SCRM within a year before the date the
+correction was made, unless that other organisation does not need the corrected
+personal data for any legal or business purpose.</p>
+<p>4.5 We may also be charging you a reasonable fee for the handling and
+processing of your requests to access your personal data. We will provide
+you with a written estimate of the fee we will be charging. Please note
+that we are not required to respond to or deal with your access request
+unless you have agreed to pay the fee.</p>
+<p><strong>5. REQUEST TO WITHDRAW CONSENT</strong>
+</p>
+<p>5.1 You may withdraw your consent for the collection, use and/or disclosure
+of your personal data in our possession or under our control by writing
+in to us at <a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dataprotectionofficer@sentosa.com.sg</u></a>.</p>
+<p>5.2 We will process your request within a reasonable time from such a
+request for withdrawal of consent being made, and will thereafter not collect,
+use and/or disclose your personal data in the manner stated in your request.</p>
+<p>5.3 However, your withdrawal of consent could result in certain legal
+consequences arising from such withdrawal. In this regard, depending on
+the extent of your withdrawal of consent for us to process your personal
+data, it may mean that we will not be able to continue with your existing
+relationship with us or certain services may no longer be possible.</p>
+<p><strong>6. ADMINISTRATION AND MANAGEMENT OF PERSONAL DATA</strong>
+</p>
+<p>6.1 We will take reasonable efforts to ensure that your personal data
+is accurate and complete, if your personal data is likely to be used by
+SCRM to make a decision that affects you, or disclosed to another organisation.
+However, this means that you must also update us of any changes in your
+personal data that you had initially provided us with. We will not be responsible
+for relying on inaccurate or incomplete personal data arising from you
+not updating us of any changes in your personal data that you had initially
+provided us with.</p>
+<p>6.2 We will also put in place reasonable security arrangements (including
+policies, processes, and safeguards) to ensure that your personal data
+is adequately protected and secured. Appropriate security arrangements
+will be taken to prevent any unauthorised access, collection, use, disclosure,
+copying, modification, leakage, loss, damage and/or alteration of your
+personal data. This includes, but not limited to, systematic training for
+SCRM personnel handling personal data, storing data in an encrypted manner
+where applicable, restricting access to personal data to authorised personnel
+only, and robust monitoring and oversight to ensure proper personal data
+management. However, we cannot assume responsibility for any unauthorised
+use of your personal data by third parties which are wholly attributable
+to factors beyond our control.</p>
+<p>6.3 We will also put in place measures such that your personal data in
+our possession or under our control is destroyed and/or anonymised as soon
+as it is reasonable to assume that:</p>
+<p>a) the purpose for which that personal data was collected is no longer
+being served by the retention of such personal data; and</p>
+<p>(b) retention is no longer necessary for any other legal or business purposes.</p>
+<p>6.4 Where your personal data is to be transferred out of Singapore, we
+will take appropriate steps to ascertain that the foreign recipient organisation
+of the personal data is bound by legally enforceable obligations to provide
+to the transferred personal data a standard of protection that is at least
+comparable to the data protection standards that SCRM is subject to. This
+may include us entering into an appropriate contract with the foreign recipient
+organisation dealing with the personal data transfer or permitting the
+personal data transfer without such a contract if it is lawful for us to
+do so.</p>
+<p><strong>7. COOKIES AND OTHER TECHNOLOGIES</strong>
+</p>
+<p>7.1 When you visit any of our websites (e.g. <a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.sentosacove.com</u></a>),
+we will automatically collect your IP address and store cookies on your
+browser in order to operate and facilitate your access to our websites
+as well as to ensure system stability and efficiency and to implement proper
+safeguards as to the security of our websites and services. The personal
+data collected as a result is necessary to operate and facilitate your
+access to our websites, or to fulfil our legitimate interest with regards
+to our use of technical information to enhancing our systems, making your
+usage of the websites more convenient or ensuring the security of our websites.
+This is based on our legitimate interest as the data used for these purposes
+are stored for a limited period only and we are generally not able to personally
+identify the user without larger efforts. We will not store cookies longer
+than is necessary for the abovementioned purposes, unless the user clears
+their cookies.</p>
+<p>7.2 Cookies are small data files sent to your browser to store and track
+information about you when you enter our digital services. The cookies
+do not harm your device and do not contain any viruses. The cookies are
+used to track information such as the number of users and their frequency
+of use, profiles of users and their preferred digital services. This data
+does not contain information that we could allocate to a natural person.
+The information can later be read by us to facilitate your access to our
+website, gather statistical data, and personalize your online experience.
+We may use cookies on our website for purposes including, but not limited
+to, improving your user experience on our website, remembering your preferences
+and may be used to target advertising that might be of interest to you,
+helping us understand how our website is performing, to monitor traffic
+to the website, detecting your web browser’s multimedia capabilities, tracking
+promotional advertisements that we have displayed to you and maintaining
+current login and purchase information on secure portions of the website
+(the “Cookie Purposes”).</p>
+<p>7.3 Most browsers automatically accept cookies, but you can modify your
+browser setting to decline cookies. Generally, you can remove these cookies
+by following directions provided in your Internet browser’s “help” file.
+If you choose not to allow us to place a cookie on your computer, you may
+be restricted from some services and some of the interactive features offered
+on our websites may be similarly restricted or rendered inoperable.</p>
+<p>7.4 Personal data (if any) that we collect from you through cookies may
+be passed to our third party service providers, whether located in Singapore
+or elsewhere, for one or more of the Cookie Purposes, for managing and/or
+administering our website, or for the purpose of data hosting/storage/backup.</p>
+<p>7.5 The information we obtain in this manner enables us to customize the
+services we offer and measure the overall effectiveness of our online content,
+advertising campaigns, and the products and services we offer through our
+website. By accessing and using our website, you agree that we can use
+cookies on your device.</p>
+<p>7.6 Our website may allow third parties to download cookies to your device.
+Third parties, such as analytics firms and business partners, may use cookies
+and other technologies to collect non-personal data about your online activities
+while you are on our website. This information may be used to measure usage
+of our website and personalize advertising content on our website. We do
+not have access to or control over cookies or other features these third
+parties may use, and the information practices of these third parties are
+not covered by this Privacy Policy. Please refer to the privacy policies
+of those third parties to better understand their activities and practices.</p>
+<p><strong>8. COMPLAINT PROCESS</strong>
+</p>
+<p>8.1 If you have any complaint or grievance regarding about how we are
+handling your personal data, we welcome you to contact us with your complaint
+or grievance.</p>
+<p>8.2 Please contact us through one of the following methods with your complaint
+or grievance:</p>
+<p>(a) E-mailing the DPO at <a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dataprotectionofficer@sentosa.com.sg</u></a> (Attention
+to the ‘Data Protection Officer’)</p>
+<p>(b) Writing and mailing to us at 39 Artillery Avenue Sentosa Singapore
+099958 (Attention to the ‘Data Protection Officer’)</p>
+<p>8.3 Where it is an email or a letter through which you are submitting
+a complaint, your indication at the subject header that it is a Personal
+Data Protection complaint would assist us in attending to your complaint
+speedily by passing it on to the relevant staff in our organisation to
+handle. For example, you could insert the subject header as “Personal Data
+Protection Compliant”.</p>
+<p><strong>9. EU GDPR</strong>
+</p>
+<p>9.1 This section of the Personal Data Protection Policy applies only if
+you are located in the EU and supplements the information in this Personal
+Data Protection Policy.</p>
+<p>9.2 We are the controller of personal data only when we collect it and
+determine the purposes and means of processing that personal data.</p>
+<p>9.3 Our business may require us to transfer your personal data to countries
+outside of the EU, including to countries that may not provide the same
+level of data protection as your home country. We take appropriate steps
+to ensure that recipients of your personal data are bound to duties of
+confidentiality and we implement measures such as standard contractual
+clauses.</p>
+<p>9.4 European Union Data Subject Rights Where you are a resident in the
+EU, you may have certain rights under the GDPR in relation to the personal
+data we hold about you, which we detail below. Some of these rights only
+apply in certain circumstances as set out in more detail below:</p>
+<p>(a) Request access to your personal information (also known as “data subject
+access request”). This enables you to receive a copy of the personal data
+we hold about you and to check that we are lawfully processing it.</p>
+<p>(b) Request correction of the personal information that we hold about
+you. This enables you to have any incomplete or inaccurate information
+we hold about you corrected.</p>
+<p>(c) Request erasure of your personal information. This enables you to
+ask us to delete or remove personal information where there is no good
+reason for us to continue processing it. You also have the right to ask
+us to delete or remove your personal information where you have exercised
+your right to object to processing.</p>
+<p>(d) Object to processing of your personal information where we are relying
+on a legitimate interest (or those of a third party) and there is something
+about your particular situation which makes you want to object to processing
+on this ground. You also have the right to object where we are processing
+your personal information for direct marketing purposes</p>
+<p>(e) Request the restriction of processing of your personal information.
+This enables you to ask us to suspend the processing of personal information
+about you, for example if you want us to establish its accuracy or the
+reason for processing it.</p>
+<p>(f) Request the transfer of your personal information to another party.</p>
+<p>9.5 If you wish to exercise any of the rights above, please contact us
+at:</p>
+<p>(a) Emailing the DPO at <a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>dataprotectionofficer@sentosa.com.sg</u></a> (Attention
+to the ‘Data Protection Officer’)</p>
+<p>(b) Logging into your account in our applications and/or website where
+applicable, or</p>
+<p>(c) Writing and mailing to us at 39 Artillery Avenue Sentosa Singapore
+099958 (Attention to the ‘Data Protection Officer’)</p>
+<p><strong>10. GENERAL INFORMATION</strong>
+</p>
+<p>10.1 As part of our efforts to ensure that we properly manage, protect
+and process your personal data, we will be reviewing our policies, procedures
+and processes from time to time.</p>
+<p>10.2 We reserve the right to amend the terms of this Personal Data Protection
+Policy. Any amended Personal Data Protection Policy will be posted on our
+website (<a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.sentosacove.com</u></a>)
+and can be viewed at <a href="mailto:dataprotectionofficer@sedataprotectionofficer@sentosa.com.sgntosa.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.sentosacove.com/dataprotectionpolicy</u></a>.</p>
+<p>10.3 You are encouraged to visit the above website from time to time to
+ensure that you are well informed of our latest policies in relation to
+personal data protection.</p>
