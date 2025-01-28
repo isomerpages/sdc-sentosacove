@@ -1,32 +1,47 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Sentosa Cove
+description: Sentosa Cove
+image: /images/Screenshot_2024_12_03_102336.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Cove_landscape_image___Copy.jpg
+      button: Contact Us
+      url: /contact-us/
+      variant: image
+  - infopic:
+      title: Sentosa Cove
+      subtitle: Oceanfront residences
+      id: infopic
+      description: Home to more than 2,000 oceanfront villas, waterway bungalows,
+        hillside mansions and upscale condominiums.
+      image: /images/Cove_house_image_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: W Singapore - Sentosa Cove
+      id: infopic
+      description: Escape from the everyday and take a whirl into the extraordinary.
+      button: W Singapore-Sentosa Cove
+      url: http://www.wsingaporesentosacove.com/
+      image: /images/W_hotel_image.jpg
+      alt: Image alt text
+  - infopic:
+      title: Sentosa Cove
+      id: infopic
+      description: The first and only oceanfront residence available in Singapore – a
+        unique development that is unsurpassed and unrivalled
+      image: /images/Cove_house_image_1.jpg
+      alt: Image alt text
+  - infopic:
+      title: Quayside Isle
+      id: infopic
+      description: With an enchanting location, panoramic views and a host of
+        gastronomic delights, Quayside Isle is set to be the Capri of Southeast
+        Asia.
+      button: Quayside Isle
+      url: http://www.quaysideisle.com/
+      image: /images/QI_image.jpg
+      alt: Image alt text
 ---
-

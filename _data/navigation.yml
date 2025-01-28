@@ -1,15 +1,15 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Screenshot_2024_12_03_102336.jpg
 links:
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: Data Protection Policy
+        url: /personal-data-protection-policy/
+  - title: Cove Information
+    url: /cove-information/
+  - title: Shuttle Bus Service
+    url: /location/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
