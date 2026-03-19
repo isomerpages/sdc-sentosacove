@@ -24,7 +24,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6275 9088
-      - email: cove_feedback@sentosa.com.sg
+      - email: sentosa.cove@jll.com
       - other: For any emergency after office hours, kindly contact the Security Command
           Centre.
     title: General Enquiries & Feedback
