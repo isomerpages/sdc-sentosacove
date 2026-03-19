@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Sentosa Cove Resort Management
+agency_name: Us
 locations:
   - address:
       - 1 Cove Avenue
@@ -10,10 +10,13 @@ locations:
       - Singapore 098537
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        time: 8.30am - 5.30pm
+        description: ""
+      - days: Sat
+        time: 8.30am - 1pm
+        description: Closed on Sundays and Public Holidays
     maps_link: https://maps.app.goo.gl/3kAMmZzKoXFUdcbq5
-    title: Main Office
+    title: JLL Management Office
   - address:
       - Security Command Centre
       - "1 Cove Avenue, #02-04"
