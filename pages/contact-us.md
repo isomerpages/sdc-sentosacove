@@ -14,7 +14,7 @@ locations:
         description: ""
       - days: Sat
         time: 8.30am - 1pm
-        description: Closed on Sundays and Public Holidays
+        description: Closed on Sunday and Public Holidays
     maps_link: https://maps.app.goo.gl/3kAMmZzKoXFUdcbq5
     title: JLL Management Office
   - address:
